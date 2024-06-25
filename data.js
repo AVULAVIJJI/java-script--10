@@ -2,6 +2,7 @@ let a=10
 let b= 30
 let c="30"
 let d="vijji"
+<D
 let e=true
 let f=false
 let g;
